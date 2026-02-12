@@ -12,11 +12,11 @@ const gifStages = [
 const noMessages = [
     "No",
     "Are you positive? 🤔",
-    "Mona please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
+    "Ruby... you have nothing better🥺",
+    "If you say no, you will end up with an African",
+    "Specifically a devious Nigerian 😢",
+    "Really 💔",
+    "Aiit a yoruba man",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
 ]
